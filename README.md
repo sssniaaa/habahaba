@@ -29,3 +29,20 @@ To add link to a text to this:
  "Сначала потом,затем, снова опять" (https://bit.ly/3Cya2Su)
 
  ## Conclusion 
+
+ ## Github instruction 
+
+ 1. Get a github account 
+2. Make a local repository
+3. connect lacal and remote repository. When the new repository is made, github will give you a hint 
+4. send (push) you local repository to remote (github), you might need to get authorisation on Github
+5. check changes from "other device"
+6. download (pull) last version of the remote repository 
+-
+1. Do fork from a needed account 
+2. make git clone for our version of that repository 
+3. make a branch with suggested changes 
+4. creat all the changes ONLY in that branch
+5. save and commit changes  
+6. send those changes on our account (push)
+7. In the Github a pull request is now visible and available
